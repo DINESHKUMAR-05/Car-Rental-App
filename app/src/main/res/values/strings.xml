@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">car-rental</string>
+    <string-array name="car_types">
+        <item>Coimbatore</item>
+        <item>Chennai</item>
+        <item>Madurai</item>
+        <item>Dindigul</item>
+        <item>Trichy</item>
+    </string-array>
+</resources>
